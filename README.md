@@ -1,2 +1,16 @@
-# bd-info-p4
-Reservatório destinado a abrigar atividades e avaliações que serão passadas na matéria Banco de dados
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> 👩‍💻BANCO DE DADOS👩‍💻 </b>
+
+![EnterpriseServices](https://github.com/Julia-maria56/bd-info-p4/assets/125198189/725b7125-d419-4cd6-a8fc-9803a8fdda58)
+Repositório destinado a abrigar avaliações e atividades da matéria sobre Banco de dados
+
+•IFCE P4 - Informática
+-
+•Professor: Ricardo Duarte Taveira
+-
+•Aluno: Júlia Maria Freitas Bezerra
+-
+•E-Mail: julia.maria07@aluno.ifce.edu.br
+-
